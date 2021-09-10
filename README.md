@@ -18,7 +18,7 @@ Use one of the proxy sites listed below to access thepiratebay.org if it is bloc
 
 ## The Pirate Bay and Its Uses
 
-The [Pirate Bay](https://piratebayproxy.net/) was developed by Piratbyran, a Swedish citizen, in 2003. TPB works in providing available information unrestrictedly. A lot of individuals are using this torrent website. So a considerable number of people are working on it by sharing any torrent file.
+[The Pirate Bay](https://piratebayproxy.net/) was developed by Piratbyran, a Swedish citizen, in 2003. TPB works in providing available information unrestrictedly. A lot of individuals are using this torrent website. So a considerable number of people are working on it by sharing any torrent file.
 
 This website works peer-to-peer. The main job of The Pirate Bay is to share virtual private links with the people accessing the site. Most of the IP addresses provided by its users are exclusive as the reference resources that will help them download something from the network. Through client software, this torrent website enables its users to download their preferred files. When we say BitTorrent files, it refers to the tiny files that contain metadata. This metadata is essential for downloading data files.
 
