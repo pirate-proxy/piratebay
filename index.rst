@@ -1,6 +1,6 @@
 .. raw:: html
 
-    <meta name="google-site-verification" content="gSnr8yowI1DBwCMN_UkfrTLIkK7Wr8pktJAiEXqOUjg" />
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HLVPNJJBC0"></script><script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-HLVPNJJBC0');</script>
 
 The Pirate Bay – List of The Best Pirate Bay Proxy Sites
 ========================================================
