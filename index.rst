@@ -1,6 +1,5 @@
-.. raw:: html
-
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-HLVPNJJBC0"></script><script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-HLVPNJJBC0');</script>
+.. meta::
+   :google-site-verification: gSnr8yowI1DBwCMN_UkfrTLIkK7Wr8pktJAiEXqOUjg
 
 The Pirate Bay – List of The Best Pirate Bay Proxy Sites
 ========================================================
