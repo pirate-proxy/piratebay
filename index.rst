@@ -1,3 +1,7 @@
+.. raw:: html
+
+    <meta name="google-site-verification" content="gSnr8yowI1DBwCMN_UkfrTLIkK7Wr8pktJAiEXqOUjg" />
+
 The Pirate Bay – List of The Best Pirate Bay Proxy Sites
 ========================================================
 
