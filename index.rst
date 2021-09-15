@@ -1,5 +1,6 @@
 .. meta::
    :google-site-verification: gSnr8yowI1DBwCMN_UkfrTLIkK7Wr8pktJAiEXqOUjg
+   :description: List of the pirate bay proxy sites to unblock pirate bay and download torrents.
 
 The Pirate Bay – List of The Best Pirate Bay Proxy Sites
 ========================================================
