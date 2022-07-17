@@ -2,7 +2,7 @@
    :google-site-verification: gSnr8yowI1DBwCMN_UkfrTLIkK7Wr8pktJAiEXqOUjg
    :description: Pirate Bay is blocked on your network? Use a proxy site to bypass filters.
 
-The Pirate Bay – List of The Best Pirate Bay Proxy Sites
+Pirate Bay – List of The Best PirateBay Proxy Sites
 ========================================================
 
 If you are looking for a reliable and trustworthy torrent site that will
