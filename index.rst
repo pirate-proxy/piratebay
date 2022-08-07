@@ -26,10 +26,9 @@ Use one of the proxy sites listed below to access thepiratebay.org if it
 is blocked in your country.
 
 1. https://piratebayproxy.net/
-2. https://thepb.uk/
-3. https://thepb.social/
-4. https://pirateproxy.ml/
-5. https://proxypirate.tk/
+2. https://pbays.biz/
+3. https://tpbays.xyz/
+4. https://pbays.pw/
 
 The Pirate Bay and Its Uses
 ---------------------------
