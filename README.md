@@ -11,10 +11,10 @@ If you would like to know more about torrents and how to download torrents, you 
 Use one of the proxy sites listed below to access thepiratebay.org if it is blocked in your country.
 
 1. [https://piratebayproxy.net/](https://piratebayproxy.net/)
-2. [https://thepb.uk/](https://thepb.uk/)
-3. [https://thepb.social/](https://thepb.social/)
-4. [https://pirateproxy.ml/](https://pirateproxy.ml/)
-5. [https://proxypirate.tk/](https://proxypirate.tk/)
+2. [https://pbays.biz/](https://pbays.biz/)
+3. [https://tpbays.xyz/](https://tpbays.xyz/)
+4. [https://pirateproxy.ml/](https://piratebayproxy.net/)
+5. [https://proxypirate.tk/](https://piratebayproxy.net/)
 
 ## The Pirate Bay and Its Uses
 
