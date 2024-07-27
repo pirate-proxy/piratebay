@@ -14,6 +14,7 @@ Use one of the proxy sites listed below to access thepiratebay.org if it is bloc
 2. [https://prbay.top/](https://prbay.top/)
 3. [https://prbay.online/](https://prbay.online/)
 4. [https://prbay.xyz/](https://prbay.xyz/)
+5. [https://thepiratebay.cloud/](https://thepiratebay.cloud/)
 
 ## The Pirate Bay and Its Uses
 
